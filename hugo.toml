@@ -1,0 +1,7 @@
+baseURL = 'https://newerspot-blog.vercel.app/'
+languageCode = 'zh-cn'
+title = 'newerspot-blog'
+theme = "ananke"
+
+[author]                  # essential                     # 必需
+  name = "newer"

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on newerspot-blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on newerspot-blog</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 28 Dec 2025 10:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sun, 28 Dec 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;我的第一篇-hugo-博客&#34;&gt;我的第一篇 Hugo 博客&lt;/h1&gt;&#xA;&lt;p&gt;这里写正文，支持 Markdown 语法：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;列表&lt;/li&gt;&#xA;&lt;li&gt;加粗 &lt;strong&gt;文字&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;链接 &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo 官网&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
